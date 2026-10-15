@@ -37,7 +37,7 @@ function LinkForm() {
             setLoading(true);
 
             try {
-                const response = await axios.get(`https://tk-down-app.vercel.app/api/tiktok`, {
+                const response = await axios.get(`https://tiktok-nu-rosy.vercel.app/api/tiktok`, {
                     params: { url: encodeURIComponent(link) }
                 });
                 const { code, msg, data } = response.data;
@@ -133,7 +133,7 @@ function LinkForm() {
                             </button>
                         </div>
                         <div className='text-center'>
-                            <a className='mt-6 text-gray-500 underline' href='https://instagram.com/abcdefuceek' target='_blank' rel='noopener noreferrer'>@abcdefuceek</a>
+                            <a className='mt-6 text-gray-500 underline' href='https://instagram.com/abcdefuceek' target='_blank' rel='noopener noreferrer'>@vinzofficiall</a>
                         </div>
                     </form>
 
