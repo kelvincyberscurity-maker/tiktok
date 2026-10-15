@@ -3,17 +3,17 @@
   "name": "Tiktok Downloader",
   "icons": [
     {
-      "src": "https://irwanx.my.id/tiktok-downloader/favicon.ico",
+      "src": "https://tiktok-nu-rosy.vercel.app/tiktok-downloader/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://irwanx.my.id/tiktok-downloader/logo192.png",
+      "src": "https://tiktok-nu-rosy.vercel.app/tiktok-downloader/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://irwanx.my.id/tiktok-downloader/logo512.png",
+      "src": "https://tiktok-nu-rosy.vercel.app/tiktok-downloader/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -31,7 +31,7 @@
       "url": "/",
       "icons": [
         {
-          "src": "https://irwanx.my.id/tiktok-downloader/icons/home-icon.png",
+          "src": "https://tiktok-nu-rosy.vercel.app/tiktok-downloader/icons/home-icon.png",
           "sizes": "192x192",
           "type": "image/png"
         }
