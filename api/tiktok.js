@@ -43,7 +43,7 @@ module.exports = async function handler(req, res) {
   }
 
   try {
-    const upstream = new URL('https://tk-down-app.vercel.app/api/tiktok');
+    const upstream = new URL('https://tiktok-nu-rosy.vercel.app/api/tiktok');
     upstream.searchParams.set('url', parsed.toString());
 
     const response = await fetch(upstream.toString(), {
